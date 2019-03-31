@@ -1,0 +1,14 @@
+{
+  "name": "testSum",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "jest": "^24.1.0"
+  },
+  "scripts": {
+    "jest": "jest"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  }
+}
